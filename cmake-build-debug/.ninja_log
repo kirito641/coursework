@@ -1,0 +1,23 @@
+# ninja log v5
+11	1578	7244605135906524	CMakeFiles/coursework.dir/main.cpp.obj	ced178de60da7d4c
+1579	1912	7244605139154214	coursework.exe	6350eeefbc07c75d
+17	1040	7244614425365070	CMakeFiles/coursework.dir/main.cpp.obj	ced178de60da7d4c
+7	1217	7244614427139498	CMakeFiles/coursework.dir/lib.cpp.obj	9222c430a6849c42
+1217	1607	7244614430912019	coursework.exe	9a91c4dad7ba97ad
+7	1233	7244615254356256	CMakeFiles/coursework.dir/lib.cpp.obj	9222c430a6849c42
+1234	1650	7244615258292210	coursework.exe	9a91c4dad7ba97ad
+52	961	7245460767769811	CMakeFiles/coursework.dir/main.cpp.obj	ced178de60da7d4c
+4	1047	7245460768617539	CMakeFiles/coursework.dir/lib.cpp.obj	9222c430a6849c42
+1048	1444	7245460772594206	coursework.exe	9a91c4dad7ba97ad
+12	1234	7245461632521402	CMakeFiles/coursework.dir/main.cpp.obj	ced178de60da7d4c
+5	1350	7245461633738147	CMakeFiles/coursework.dir/lib.cpp.obj	9222c430a6849c42
+1350	1534	7245461635521643	coursework.exe	9a91c4dad7ba97ad
+69	874	7245462441141651	CMakeFiles/coursework.dir/main.cpp.obj	ced178de60da7d4c
+18	1041	7245462442811574	CMakeFiles/coursework.dir/lib.cpp.obj	9222c430a6849c42
+1041	1236	7245462444663859	coursework.exe	9a91c4dad7ba97ad
+5	740	7245530671889235	CMakeFiles/coursework.dir/main.cpp.obj	ced178de60da7d4c
+12	850	7245530672996268	CMakeFiles/coursework.dir/lib.cpp.obj	9222c430a6849c42
+850	1152	7245530675958680	coursework.exe	9a91c4dad7ba97ad
+5	1068	7246300765380719	CMakeFiles/coursework.dir/main.cpp.obj	ced178de60da7d4c
+43	1111	7246300765829517	CMakeFiles/coursework.dir/lib.cpp.obj	9222c430a6849c42
+1112	1563	7246300770296742	coursework.exe	9a91c4dad7ba97ad

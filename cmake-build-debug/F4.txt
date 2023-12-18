@@ -1,0 +1,21 @@
+New lines with digits:
+
+
+
+2023
+
+
+10000
+Average word length in line 1: 4.56
+
+Average word length in line 2: 4.38
+
+Average word length in line 3: 4.80
+
+Average word length in line 4: 5.71
+
+Average word length in line 5: 4.56
+
+Average word length in line 6: 5.54
+
+Average word length in line 7: 5.42
